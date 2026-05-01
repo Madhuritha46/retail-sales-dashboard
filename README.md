@@ -62,7 +62,7 @@ streamlit run app.py
 
 ## 🌍 Live Demo
 
-(After deployment, add your link here)
+https://retail-sales-dashboard-gf8naxyywijzb9wbfxkjxa.streamlit.app/
 
 ---
 
